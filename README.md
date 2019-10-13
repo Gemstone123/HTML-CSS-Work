@@ -46,4 +46,20 @@ Let's go back to your recipe (from assignments #1, #2, and #3), and add some sty
 4. Make the page title (the h1) bold, and make it underlined.
 
 -----------------------------------------------------------------------------------------------------------
+Assignment # 5
 
+Homework Assignment #5: Classes and IDs
+Details:
+1. Refactor (aka rewrite / reorganize) your code from assignment #4 so that more than 75% of your CSS is selecting elements by classes and IDs.
+2. Give your ordered list and unordered list unique classes.
+3. If you haven't yet, find a resource online that explains all the different CSS properties you can use in your website.
+4. Change the bullet-points in the unordered list so that they are an emoji of your choosing.
+4. Change the numbers in the ordered list so that they are roman numerals instead.
+
+Extra Credit:
+1. Within one of your paragraphs, add <span> elements around several words or phrases that should be emphasized.
+2. Within your CSS create a selector that will only apply to <span> elements that are within <p> elements, and make them italic.
+3. Within your CSS create a selector that will only apply the last <span> within a <p> tag, and make it underlined.
+4. Give the first <span> element within the <p> tag a special class. Now add CSS that will remove the italics and apply a red color instead. 
+  
+  -------------------------------------------------------------------------
