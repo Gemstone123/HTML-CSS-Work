@@ -1,0 +1,39 @@
+body  {
+	background-color:peachpuff;
+}
+
+.mypara-class {
+	font-size:20px;
+}
+
+.mypara-class:hover {
+  background-color: plum;
+}
+
+
+.unordered-list1 li:before {
+	font-size: 25px;
+	 list-style-type: unordered-list1;
+	 system: cyclic;
+	 content: "\1F431";
+}
+
+.ordered-list1 {
+	font-size: 25px;
+}
+
+#myheading1 {
+	padding:20px;
+	text-decoration: underline;
+	background-color: aqua;
+	text-align: center;
+}
+
+.span-class1{
+	color:red;
+}
+
+.span-class3 {
+	font-style: italic;
+	text-decoration: underline;
+}
